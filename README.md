@@ -1,7 +1,3 @@
-Here's a concise README for your GitHub repository:
-
----
-
 # Paychex Job Title Prediction
 
 This project aims to predict job titles for Paychex employees based on available user data. The main objectives were to develop a model that accurately predicts job titles (OEWS codes) and to enhance our understanding of the dataset to identify effective approaches.
